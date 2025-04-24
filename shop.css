@@ -205,6 +205,7 @@ color: #333;
   top: 0;
   z-index: 1000;
 }
+
 @media  screen and (max-width:600px) {
 .product-grid{
 grid-template-columns: auto;
@@ -213,7 +214,6 @@ grid-template-columns: auto;
 
 }
 
-/* footer styles css */
 
 * {
 margin: 0;

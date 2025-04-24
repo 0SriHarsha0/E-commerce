@@ -74,6 +74,7 @@ font-style: normal;
 color: #9dc5e8;
 }
 
+
 @media (max-width: 768px) {
 footer {
 flex-direction: column;
@@ -85,7 +86,6 @@ margin-bottom: 30px;
 }
 }
 
-/* product card styless css */
 
 .cart-container body {
 font-family: Arial, sans-serif;
@@ -195,6 +195,7 @@ font-weight: bold;
 font-size: 20px;
 color: #093b78;
 }
+
 @media screen and (max-width:600px){
 .cart-container{
 display: flex;

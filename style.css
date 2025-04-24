@@ -178,6 +178,7 @@
             background-color: #007bff;
             color: white;
         }
+
         @media  screen and (max-width:600px) {
             .product-grid{
                 grid-template-columns: auto;
@@ -238,7 +239,6 @@
         .footer-column address {
             font-style: normal;
         }
-        
         
         @media screen and (max-width: 768px) {
             footer {
